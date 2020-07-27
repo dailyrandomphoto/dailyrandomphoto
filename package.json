@@ -1,0 +1,23 @@
+{
+  "name": "dailyrandomphoto",
+  "version": "1.0.0",
+  "description": "Daily Random Photo. https://www.dailyrandomphoto.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node write-readme.js > README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyrandomphoto/dailyrandomphoto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailyrandomphoto/dailyrandomphoto/issues"
+  },
+  "homepage": "https://github.com/dailyrandomphoto/dailyrandomphoto#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "read-first-file": "0.0.2"
+  }
+}
