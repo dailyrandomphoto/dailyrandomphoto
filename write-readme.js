@@ -1,7 +1,7 @@
 const { resolve } = require("path");
 const dateFormat = require("dateformat");
 const readFirstFile = require("read-first-file");
-const DATA_PATH = resolve(__dirname, "../dailyrandomphoto-api/2020");
+const DATA_PATH = resolve(__dirname, "data", "" + new Date().getFullYear());
 
 function printReadme(date, photo) {
   const urlPath = dateFormat(date, "yyyy/yyyy-mm-dd");
