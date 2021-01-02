@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2021/2021-01-01/"><img src="https://images.unsplash.com/photo-1607283894277-e86fb9a5a2b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2021/2021-01-02/"><img src="https://images.unsplash.com/photo-1609058745811-2e87ab15790a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@clauspescha?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Claus Pescha</a> on <a href="https://unsplash.com/photos/gF7l9cOBPgk?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@anniespratt?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Annie Spratt</a> on <a href="https://unsplash.com/photos/A0QLq5eZ_ms?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
