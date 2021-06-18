@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2021/2021-06-17/"><img src="https://images.unsplash.com/photo-1621687947404-e41b3d139088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMzg4ODgzOQ&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2021/2021-06-18/"><img src="https://images.unsplash.com/photo-1621747609281-38853764c986?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyMzk3NTIzMA&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@carnaby?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Carnaby Gilany</a> on <a href="https://unsplash.com/photos/AFhWUxA51IA?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@visuallert?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Jonas Allert</a> on <a href="https://unsplash.com/photos/k94wMXMHFbE?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
