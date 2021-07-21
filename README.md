@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2021/2021-07-20/"><img src="https://images.unsplash.com/photo-1625855715862-62b0dfba6ada?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyNjc0MDAxMQ&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2021/2021-07-21/"><img src="https://images.unsplash.com/photo-1625089290214-8eb0fab579c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyNjgyNjUxMw&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@benjamin_deyoung?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Benjamin DeYoung</a> on <a href="https://unsplash.com/photos/R6A4N_zDwts?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@kevinwolf?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Kevin Wolf</a> on <a href="https://unsplash.com/photos/I-JOyKzrrls?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
