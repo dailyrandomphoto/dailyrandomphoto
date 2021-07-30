@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2021/2021-07-29/"><img src="https://images.unsplash.com/photo-1603886219003-b15275da8b9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyNzUxNzY4Nw&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2021/2021-07-30/"><img src="https://images.unsplash.com/photo-1625334666162-8ad10e7332d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTYyNzYwNDA3NA&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@nathjennings_?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Nathan Jennings</a> on <a href="https://unsplash.com/photos/HVxOEQ8eRbY?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@fakurian?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Fakurian Design</a> on <a href="https://unsplash.com/photos/d4lv5slqeqY?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
