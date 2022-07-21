@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2022/2022-07-18/"><img src="https://images.unsplash.com/photo-1578080528399-357c079d06fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY1ODEwNDU3OA&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2022/2022-07-21/"><img src="https://images.unsplash.com/photo-1655990342056-d614da59345d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY1ODM2Mzg5OQ&ixlib=rb-1.2.1&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@vincentwac?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Vincent Wachowiak</a> on <a href="https://unsplash.com/photos/jNaC462kRMU?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@libraryofcongress?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Library of Congress</a> on <a href="https://unsplash.com/photos/B_JN_BYtflE?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
