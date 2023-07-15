@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2023/2023-07-14/"><img src="https://images.unsplash.com/photo-1688309100087-241909eaea3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY4OTI5NTI0Nnw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2023/2023-07-15/"><img src="https://images.unsplash.com/photo-1688494930098-e88c53c26e3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY4OTM4MTUzMXw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@martz90?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Martin Martz</a> on <a href="https://unsplash.com/photos/a-blurry-image-of-a-rainbow-colored-object-_ozwmOQ5Ig4?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@martz90?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Martin Martz</a> on <a href="https://unsplash.com/photos/a-black-and-pink-abstract-background-with-curves-wRuhOOaG-Z4?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
