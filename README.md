@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2024/2024-01-11/"><img src="https://images.unsplash.com/photo-1703081397398-6156621d25ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcwNDkzMzA2NHw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2024/2024-01-12/"><img src="https://images.unsplash.com/photo-1704587422648-43f456047a72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcwNTAxOTQ3M3w&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@geraberl?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Gerald Berliner</a> on <a href="https://unsplash.com/photos/a-long-exposure-photo-of-a-waterfall-at-night-bHfFZIgJraU?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@kalaniparker?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Kellen Riggin</a> on <a href="https://unsplash.com/photos/a-car-driving-down-a-road-next-to-the-ocean-KfDbyu55qyY?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
