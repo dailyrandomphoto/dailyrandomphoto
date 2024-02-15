@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2024/2024-02-14/"><img src="https://images.unsplash.com/photo-1707216171962-9f1514c0bda6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcwNzg3MDUzOXw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2024/2024-02-15/"><img src="https://images.unsplash.com/photo-1706261130892-d814895a4292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcwNzk1Njk0OXw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@maxberg?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Maxim Berg</a> on <a href="https://unsplash.com/photos/a-heart-shaped-object-with-a-pink-and-blue-swirl-nazL_0vWZ0Y?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@lenakestler?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Lena Kestler</a> on <a href="https://unsplash.com/photos/a-body-of-water-surrounded-by-land-and-mountains-xA6LOnXXXkU?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
