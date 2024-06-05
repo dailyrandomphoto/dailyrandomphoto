@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2024/2024-06-04/"><img src="https://images.unsplash.com/photo-1716042539914-50bf7ea49d00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcxNzQ2MTEzOHw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2024/2024-06-05/"><img src="https://images.unsplash.com/photo-1714671739362-e6fcee8d8704?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcxNzU0NzUyMHw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@chalogallardo?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Chalo Gallardo</a> on <a href="https://unsplash.com/photos/a-boat-traveling-down-a-body-of-water-under-a-cloudy-sky-qRRnqnnGwko?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@aedrian?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Aedrian Salazar</a> on <a href="https://unsplash.com/photos/a-field-of-red-tulips-with-the-sun-in-the-background-ro5WWPwSQwM?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
