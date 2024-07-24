@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2024/2024-07-23/"><img src="https://images.unsplash.com/photo-1718809070510-371f29994edd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyMTY5NDg3Nnw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2024/2024-07-24/"><img src="https://images.unsplash.com/photo-1720165785968-7c0ca6ff2e06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTcyMTc4MTMwN3w&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@lukewitter?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Luke Witter</a> on <a href="https://unsplash.com/photos/a-train-traveling-through-a-train-station-next-to-tall-buildings-99TxmBZzSVE?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@t_ahmetler?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Tolga Ahmetler</a> on <a href="https://unsplash.com/photos/a-view-of-the-wing-of-an-airplane-in-the-sky-XqUKU4436Q8?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
