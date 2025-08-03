@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2025/2025-08-02/"><img src="https://images.unsplash.com/photo-1752517497978-9c30910641af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1NDA5NTg0MXw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2025/2025-08-03/"><img src="https://images.unsplash.com/photo-1751891480287-0b662b3b2aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1NDE4MjcyNnw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@marekpiwnicki?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Marek Piwnicki</a> on <a href="https://unsplash.com/photos/milky-way-shines-over-a-mountain-valley-kgFdZvtyW4E?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@elmartinbaron?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Martin Baron</a> on <a href="https://unsplash.com/photos/hand-holds-a-bouquet-of-colorful-flowers-okM4D8LSch0?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
