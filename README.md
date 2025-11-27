@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2025/2025-11-26/"><img src="https://images.unsplash.com/photo-1761405378543-e74453424152?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc2NDExODA0OXw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2025/2025-11-27/"><img src="https://images.unsplash.com/photo-1749627995669-4d4dda3a9c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc2NDIwNDM4NXw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@zvchmiller?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Zach Miller</a> on <a href="https://unsplash.com/photos/person-in-fluffy-hat-sits-in-armchair-surrounded-by-clothes-4WFq52MNVqY?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@debrupas?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Pascal Debrunner</a> on <a href="https://unsplash.com/photos/yellow-flowers-bloom-at-the-mountains-foot-TOKeCFmRtj4?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
