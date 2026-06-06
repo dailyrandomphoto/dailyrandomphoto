@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2026/2026-06-05/"><img src="https://images.unsplash.com/photo-1778525306814-a23f07f44a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc4MDYyNTEzOXw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2026/2026-06-06/"><img src="https://images.unsplash.com/photo-1777266450837-94423d75af89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc4MDcxMTAxNnw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@filipkvasnak?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Filip Kvasnak</a> on <a href="https://unsplash.com/photos/lone-tree-on-a-grassy-hill-under-cloudy-sky-dPm9bu1X9q0?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@debrupas?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Pascal Debrunner</a> on <a href="https://unsplash.com/photos/a-field-of-yellow-flowers-with-trees-in-the-background-_V8rv4Vnxhw?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
