@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2026/2026-10-07/"><img src="https://images.unsplash.com/photo-1790042281644-4e7637a957d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc5MTM0MjEzNHw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2026/2026-10-08/"><img src="https://images.unsplash.com/photo-1778944650798-7a94af35aadc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc5MTQyOTUxN3w&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@frankhme?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Frank Huang</a> on <a href="https://unsplash.com/photos/red-boat-before-colorful-buildings-in-nyhavn-NT8soa0sHto?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@jstekla?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Jakub Stekla</a> on <a href="https://unsplash.com/photos/stone-archway-carvings-in-rome-pFGAOwcCKLM?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
