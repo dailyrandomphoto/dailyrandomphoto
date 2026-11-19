@@ -3,8 +3,8 @@
 <div align="center">
   <br>
   <br>
-  <a href="https://www.dailyrandomphoto.com/p/2026/2026-11-18/"><img src="https://images.unsplash.com/photo-1793131673140-6141e362d35f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc5NDk3Nzc1Mnw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
+  <a href="https://www.dailyrandomphoto.com/p/2026/2026-11-19/"><img src="https://images.unsplash.com/photo-1793296225976-dd92eeb74bab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTc5NTA2Mzc4MXw&ixlib=rb-4.1.0&q=80&w=1080" width="600px"></a>
   <br>
   <br>
-  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@yumartsy?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Yuliia Martsynkevych</a> on <a href="https://unsplash.com/photos/stone-building-with-autumn-vines-v8GSML69V-E?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+  <p class="has-text-grey">Photo by <a href="https://unsplash.com/@filipkvasnak?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Filip Kvasnak</a> on <a href="https://unsplash.com/photos/evergreen-trees-on-misty-mountain-slope-MzXby629N3E?utm_source=Daily%20Random%20Photo&amp;utm_medium=referral" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
 </div>
